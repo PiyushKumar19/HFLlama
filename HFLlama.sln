@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HFLlama", "HFLlama\HFLlama.csproj", "{7446132E-E320-4CA6-BCE6-F99408C98DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFLlama-Console", "HFLlama-Console\HFLlama-Console.csproj", "{29CA1562-A8E7-4F8D-A2D9-2E1CBB5F07C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7446132E-E320-4CA6-BCE6-F99408C98DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7446132E-E320-4CA6-BCE6-F99408C98DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7446132E-E320-4CA6-BCE6-F99408C98DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7446132E-E320-4CA6-BCE6-F99408C98DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CA1562-A8E7-4F8D-A2D9-2E1CBB5F07C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CA1562-A8E7-4F8D-A2D9-2E1CBB5F07C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CA1562-A8E7-4F8D-A2D9-2E1CBB5F07C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CA1562-A8E7-4F8D-A2D9-2E1CBB5F07C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B1C55D-BDF0-4568-A322-800D533DEA02}
+	EndGlobalSection
+EndGlobal
